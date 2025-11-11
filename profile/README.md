@@ -1,5 +1,9 @@
 # Welcome to PythTB!
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/pythtb/pythtb/main/docs/source/_static/pythtb_logo.svg" width="300"/>
+</p>
+
 [![Conda Version](https://anaconda.org/conda-forge/pythtb/badges/version.svg)](https://anaconda.org/conda-forge/pythtb/)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/pythtb.svg?label=PyPI%20downloads)](
 https://pypi.org/project/pythtb/)
